@@ -1,0 +1,102 @@
+{
+  "origin.origins.human.name": "人类",
+  "origin.origins.human.description": "依然是普通的Minecraft体验。但更大，更好，更强壮的怪物猎人等着你让人类再次伟大!",
+
+  "origin.origins.merling.name": "塞壬",
+  "origin.origins.merling.description": "作为被海洋的祝福的子嗣，塞壬对水和海洋的一切了如指掌，但塞壬必须不断补充水分以维持呼吸。",
+
+  "origin.origins.arachnid.name": "蛛形纲",
+  "origin.origins.arachnid.description": "脆弱的身板使得蛛形纲猎手不适合主动出击，但任何落入陷阱，被其束缚的猎物都无力逃出生天。",
+
+  "origin.origins.blazeborn.name": "来自地狱",
+  "origin.origins.blazeborn.description": "你将逃离地狱。用火焰的力量为世界带来赐福，净化，和第二个普罗米修斯。",
+
+  "origin.origins.avian.name": "羽人族裔",
+  "origin.origins.avian.description": "有些被代达罗斯赐福的族裔在很久以前就失去了飞行的能力。现在，有时可以观察到这些温和的生物从此方滑翔到彼方。",
+
+  "origin.origins.phantom.name": "失眠恐症",
+  "origin.origins.phantom.description": "幻翼的血统使它们能够进行相位移动，以饥饿为代价无视地形的阻挡，但暴露在阳光下时会变得格外脆弱。",
+
+  "origin.origins.feline.name": "猫的恩赐",
+  "origin.origins.feline.description": "猫的恩赐使你生活的相当安逸，在湖边钓鱼休息并度过轻松愉快的时光。",
+
+  "origin.origins.elytrian.name": "伊卡洛斯",
+  "origin.origins.elytrian.description": "天生的羽翼赋予了这个种群飞行能力和精湛的空中战斗技巧，也为它们带来了自由和重力的诅咒。",
+
+  "origin.origins.enderian.name": "???",
+  "origin.origins.enderian.description": "虚无之地的力量和龙的血脉在末影族裔体内流淌，任何激怒它们的人都将于地下安眠。",
+
+  "origin.origins.shulk.name": "紫色凿船贝",
+  "origin.origins.shulk.description": "强大的外壳为这些贝类带来了无可比拟的防御能力，但也在一定程度上限制了他们的行动能力。",
+
+  "enchantment.origins.water_protection.desc": "延缓在水中因恐水症收到伤害。",
+
+  "power.salty.arachnid_fangs.name": "剧毒！",
+  "power.salty.arachnid_fangs.description": "这可是洞穴里的货色。每隔一段时间，你的攻击将施加中毒效果。",
+
+  "power.salty.arachnid_tied_attacker.name": "果断反击",
+  "power.salty.arachnid_tied_attacker.description": "每隔一段时间，对你造成伤害的生物都将被蛛网束缚，并获得挖掘疲劳效果。",
+
+  "power.salty.avian_fall_flying.name": "空气阻力",
+  "power.salty.avian_fall_flying.description": "你将以正常速度的一半向下坠落，并且不会因为坠落受到伤害。",
+
+  "power.salty.avian_fresh_air.name": "新鲜空气",
+  "power.salty.avian_fresh_air.description": "你对清新的空气特殊的需求。你只能在高处入睡，在地底的洞穴中过久逗留会使你变得虚弱且疲劳。",
+
+  "power.salty.avian_resource_momentum.name": "动能积累",
+  "power.salty.avian_resource_momentum.description": "向前奔跑时，你将积累动能。动能累积到一定值时将获得加速效果，连续两次跳跃以进入滑翔状态。注意，缓慢效果将禁止你积累动能。",
+
+  "power.salty.blazeborn_nether_spawn.name": "诡异造物",
+  "power.salty.blazeborn_nether_spawn.description": "你将在地狱的诡异森林中出生。",
+
+  "power.salty.blazeborn_burnt_wrath.name": "地狱呼唤",
+  "power.salty.blazeborn_burnt_wrath.description": "地狱的力量始终影响着你。你的近战和远程攻击将会施加额外效果。",
+
+  "power.salty.blazeborn_lava_wander.name": "熔岩漫步者",
+  "power.salty.blazeborn_lava_wander.description": "你不再需要在熔岩海里苦痛挣扎。获得在熔岩中的行动能力和清晰视野。",
+
+  "power.salty.elytrian_launch_into_air.name": "挣脱大地",
+  "power.salty.elytrian_launch_into_air.description": "以先驱者与遇难者之名，人类的意志已然挣脱大地。当你的胸部装甲满足机动需求时，将你抛向空中。",
+
+  "power.salty.elytrian_light_armor.name": "机动需求",
+  "power.salty.elytrian_light_armor.description": "不是感觉，你已经撞上去了。胸甲的重量会影响你的平衡能力和坠落速度，增加碰撞伤害和坠落伤害，过重的胸甲会阻止你飞行并使你变得缓慢。",
+
+  "power.salty.elytrian_claustrophobia.name": "幽闭恐惧",
+  "power.salty.elytrian_claustrophobia.description": "在天花板很低的地方逗留太久会使你无法呼吸，变得虚弱而缓慢。",
+
+  "power.salty.enderian_ender_pearl.name": "传统艺能: 送",
+  "power.salty.enderian_ender_pearl.description": "你可以抛出一个不造成伤害的末影珍珠进行传送。",
+
+  "power.salty.enderian_pumpkin_hate.name": "??感知缺失",
+  "power.salty.enderian_pumpkin_hate.description": "出于某种原因，你无法吃下??相关的食物，也无法察觉任何装备??的生物。你一直没搞明白??到底是个啥。",
+
+  "power.salty.enderian_raging.name": "恩赐解脱",
+  "power.salty.enderian_raging.description": "攻击或受到伤害都会使你积累愤怒并最终进入狂暴。处于狂暴状态时，将获得速度加成并造成额外伤害，并使你更快的饥饿。",
+
+  "power.salty.feline_the_ninth_live.name": "第九条命",
+  "power.salty.feline_the_ninth_live.description": "在你濒死时阻止你的第一次死亡，获得加速和虚弱效果。重生或在橙色床上睡醒将使你重置你的死亡计数器。",
+
+  "power.salty.feline_resource_mine.name": "强壮手臂, 鱼驱动力",
+  "power.salty.feline_resource_mine.description": "在没有力量加成时，无法开采临近存在3块以上自然岩石的岩石方块。在副手装备任意鱼会其将其消耗并获得短暂的力量效果。",
+
+  "power.salty.merling_stormcaller.name": "彩虹捕手",
+  "power.salty.merling_stormcaller.description": "我将全心全意将其夺回。在晴朗天气时，献祭海洋之心以召唤雷暴。",
+
+  "power.salty.merling_rest_in_sea.name": "海底长眠",
+  "power.salty.merling_rest_in_sea.description": "愿牠们于海底安息..",
+
+  "power.salty.phantom_invis_in_dark.name": "神秘存在",
+  "power.salty.phantom_invis_in_dark.description": "未被发光效果标记时，你在黑暗中将变得几乎不可见。此时相位状态将使你完全隐形。",
+
+  "power.salty.phantom_fragile_in_light.name": "光敏性癫..",
+  "power.salty.phantom_fragile_in_light.description": "光线使你变得脆弱。当你暴露在阳光下中时将受到额外伤害。",
+  
+  "power.salty.shulk_natural_armor.name": "整装上阵，就现在",
+  "power.salty.shulk_natural_armor.description": "你的皮肤赋予你天生的保护，为你提供额外的护甲。",
+
+  "power.salty.shulk_no_elytra.name": "飞行不能",
+  "power.salty.shulk_no_elytra.description": "我感觉带着鞘翅的潜影贝跟飞虫一样，所以我给修了。因为你的体型过宽过重，你无法使用鞘翅。",
+
+  "power.salty.shulk_hiding_trigger.name": "二十世纪男孩",
+  "power.salty.shulk_hiding_trigger.description": "迪亚哥一定会来救我的。获得高额伤害减免并免疫弹射物伤害，同时对攻击者造成短暂虚弱。在防御解除之前，你无法主动移动，攻击，并且近乎完全失明。"
+}

@@ -1,0 +1,71 @@
+{  
+ 
+    "power.salty.pumpkin_hate.name": "Scared of Gourds",
+    "power.salty.pumpkin_hate.description": "You are afraid of pumpkins. For a good reason.",
+
+    "power.salty.arachnid_fangs.name": "Poisonous Bite",
+    "power.salty.arachnid_fangs.description": "Come from caves! Your attacks inflict venom.",
+
+    "power.salty.avian_fall_flying.name": "Featherweight",
+    "power.salty.avian_fall_flying.description": "You fall as half of normal falling speed as a feather would, unless you sneak.",
+  
+    "power.salty.avian_fresh_air.name": "Fresh Air Needed",
+    "power.salty.avian_fresh_air.description": "You realy need fresh air now. When sleeping, your bed needs to be at an altitude of at least 86 blocks. Stay at deep caves for long will make you weak and slow.",
+  
+    "power.salty.avian_resource_momentum.name": "Momentum",
+    "power.salty.avian_resource_momentum.description": "As you run, you build up momentum. When at maximum momentum, you run a bit faster. Double jump while running to begin soaring and consume your momentum. Be aware slowness will prevent you form that.",
+  
+    "power.salty.blazeborn_nether_spawn.name":"Warped Inhabitant",
+    "power.salty.blazeborn_nether_spawn.description":"Your natural spawn will be in the nether, at warped forest.",
+
+    "power.salty.blazeborn_burnt_wrath.name": "Calling From Underland",
+    "power.salty.blazeborn_burnt_wrath.description": "You have been blessed from nether. your melee attacks inflict wither and you range attack will always buring targets.",
+    
+    "power.salty.blazeborn_nether_swim.name": "Lava Wander",
+    "power.salty.blazeborn_nether_swim.description": "You are able to walk on lava, also swim in it.",
+
+    "power.salty.elytrian_claustrophobia.name":"Claustrophobia",
+    "power.salty.elytrian_claustrophobia.description":"Being somewhere with a low ceiling for too long will weaken you and make you slower.",
+
+    "power.salty.elytrian_light_armor.name":"Need for Mobility",
+    "power.salty.elytrian_light_armor.description":"Wear any kind of armor on chest will increase your falling speed, increase your falling damage. heavy armor will prevent you from flying.",
+
+    "power.salty.elytrian_launch_into_air.name": "Snow and Sky",
+    "power.salty.elytrian_launch_into_air.description": "You are able to launch into the air if you aren't wearing any heavy chestplate. Be noticed wearing any type of chestplate armor will both decrease your run speed and air speed, Even prevent flying.",
+  
+    "power.salty.enderian_ender_pearl.name":"Teleportation",
+    "power.salty.enderian_ender_pearl.description":"Whenever you want, you may throw an ender pearl which deals no damage, allowing you to teleport.",
+
+    "power.salty.enderian_pumpkin_hate.name":"???",
+    "power.salty.enderian_pumpkin_hate.description":"For some reasons, you can't eat any kind of food related ??,also entity wearing ?? will be imperceptible for you.",
+
+    "power.salty.enderian_raging.name": "Gift of Liberation",
+    "power.salty.enderian_raging.description": "Build up angry while attack or hurt. Rage will apply speed effect and attack damage bonus when you are raging, and make you hunger faster.",
+  
+    "power.salty.feline_resource_mine.name": "Powered by Fish",
+    "power.salty.feline_resource_mine.description": "Holding any kind of fish in your off-hand will temporarily allow you to mine.",
+
+    "power.salty.feline_resource_lives.name": "The Ninth Live",
+    "power.salty.feline_resource_lives.description": "Prevent death when you are first time dying，gain speed and weakness effect for few times.recharge on your respawn or waking up from orange bed.",
+  
+    "power.salty.merling_stormcaller.name": "Catch the Rainbow",
+    "power.salty.merling_stormcaller.description": "When not in water or rain, hold a heart of the sea to sacrifice it and call in a storm.",
+
+    "power.salty.merling_rest_in_sea.name": "Glory at Sea",
+    "power.salty.merling_rest_in_sea.description": "Requiescat in pace.",
+  
+    "power.salty.phantom_invis_in_dark.name": "Gloomstalker",
+    "power.salty.phantom_invis_in_dark.description": "You cloak yourself in the darkness which surrounds you, making you difficult to see. Does not work while phantomized or under the glowing effect!",
+    
+    "power.salty.phantom_fragile_in_light.name": "Fraglie in light",
+    "power.salty.phantom_fragile_in_light.description": "Light makes you fraglie. If you are direct to sunlight, you will receie 30% more damage.",
+
+    "power.salty.shulk_natural_armor.name": "Suit it up for now!",
+    "power.salty.shulk_natural_armor.description":"Even without wearing armor, your skin provides natural protection.",
+
+    "power.salty.shulk_no_elytra.name": "No Flying like a Bug",
+    "power.salty.shulk_no_elytra.description": "I thought shulker flying with an elytra look the same to bug. So now I fixed it.",
+
+    "power.salty.shulk_hiding_trigger.name": "Shulker Shell",
+    "power.salty.shulk_hiding_trigger.description": "Become immobile, weak and blind, but gain 80% resistance to all damage types and immune to projecttiles. Have cooldown to toggle."
+}
