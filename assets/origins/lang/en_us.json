@@ -18,11 +18,11 @@
     "power.salty.blazeborn_nether_spawn.name":"Warped Inhabitant",
     "power.salty.blazeborn_nether_spawn.description":"Your natural spawn will be in the nether, at warped forest.",
 
-    "power.salty.blazeborn_burnt_wrath.name": "Calling From Underland",
-    "power.salty.blazeborn_burnt_wrath.description": "You have been blessed from nether. your melee attacks inflict wither and you range attack will always buring targets.",
+    "power.salty.blazeborn_call_from_nether.name": "Calling From Underland",
+    "power.salty.blazeborn_call_from_nether.description": "You have been blessed from nether. your melee attacks inflict wither and you range attack will always buring targets.",
     
-    "power.salty.blazeborn_nether_swim.name": "Lava Wander",
-    "power.salty.blazeborn_nether_swim.description": "You are able to walk on lava, also swim in it.",
+    "power.salty.blazeborn_lava_wander.name": "Lava Wander",
+    "power.salty.blazeborn_lava_wander.description": "You are able to walk on lava, also swim in it.",
 
     "power.salty.elytrian_claustrophobia.name":"Claustrophobia",
     "power.salty.elytrian_claustrophobia.description":"Being somewhere with a low ceiling for too long will weaken you and make you slower.",
@@ -40,7 +40,7 @@
     "power.salty.enderian_pumpkin_hate.description":"For some reasons, you can't eat any kind of food related ??,also entity wearing ?? will be imperceptible for you.",
 
     "power.salty.enderian_raging.name": "Gift of Liberation",
-    "power.salty.enderian_raging.description": "Build up angry while attack or hurt. Rage will apply speed effect and attack damage bonus when you are raging, and make you hunger faster.",
+    "power.salty.enderian_raging.description": "Build up angry while attack or hurt. Rage will apply speed effect and attack damage bonus when you are raging, and apply blindness to targets intermittent.",
   
     "power.salty.feline_resource_mine.name": "Powered by Fish",
     "power.salty.feline_resource_mine.description": "Holding any kind of fish in your off-hand will temporarily allow you to mine.",

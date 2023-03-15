@@ -49,8 +49,8 @@
   "power.salty.blazeborn_nether_spawn.name": "诡异造物",
   "power.salty.blazeborn_nether_spawn.description": "你将在地狱的诡异森林中出生。",
 
-  "power.salty.blazeborn_burnt_wrath.name": "地狱呼唤",
-  "power.salty.blazeborn_burnt_wrath.description": "地狱的力量始终影响着你。你的近战和远程攻击将会施加额外效果。",
+  "power.salty.blazeborn_call_from_nether.name": "地狱呼唤",
+  "power.salty.blazeborn_call_from_nether.description": "地狱的力量始终影响着你。你的近战和远程攻击将会施加额外效果。",
 
   "power.salty.blazeborn_lava_wander.name": "熔岩漫步者",
   "power.salty.blazeborn_lava_wander.description": "你不再需要在熔岩海里苦痛挣扎。获得在熔岩中的行动能力和清晰视野。",
@@ -71,7 +71,7 @@
   "power.salty.enderian_pumpkin_hate.description": "出于某种原因，你无法吃下??相关的食物，也无法察觉任何装备??的生物。你一直没搞明白??到底是个啥。",
 
   "power.salty.enderian_raging.name": "恩赐解脱",
-  "power.salty.enderian_raging.description": "攻击或受到伤害都会使你积累愤怒并最终进入狂暴。处于狂暴状态时，将获得速度加成并造成额外伤害，并使你更快的饥饿。",
+  "power.salty.enderian_raging.description": "攻击或受到伤害都会使你积累愤怒并最终进入狂暴。处于狂暴状态时，将获得速度加成并造成额外伤害，并间歇性为攻击目标施加失明状态。",
 
   "power.salty.feline_the_ninth_live.name": "第九条命",
   "power.salty.feline_the_ninth_live.description": "在你濒死时阻止你的第一次死亡，获得加速和虚弱效果。重生或在橙色床上睡醒将使你重置你的死亡计数器。",
@@ -79,8 +79,8 @@
   "power.salty.feline_resource_mine.name": "强壮手臂, 鱼驱动力",
   "power.salty.feline_resource_mine.description": "在没有力量加成时，无法开采临近存在3块以上自然岩石的岩石方块。在副手装备任意鱼会其将其消耗并获得短暂的力量效果。",
 
-  "power.salty.merling_stormcaller.name": "彩虹捕手",
-  "power.salty.merling_stormcaller.description": "我将全心全意将其夺回。在晴朗天气时，献祭海洋之心以召唤雷暴。",
+  "power.salty.merling_catch_the_rainbow.name": "彩虹捕手",
+  "power.salty.merling_catch_the_rainbow.description": "我将全心全意将其夺回。在晴朗天气时，献祭海洋之心以召唤雷暴。",
 
   "power.salty.merling_rest_in_sea.name": "海底长眠",
   "power.salty.merling_rest_in_sea.description": "愿牠们于海底安息..",
