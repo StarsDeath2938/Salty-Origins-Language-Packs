@@ -30,6 +30,9 @@
     "power.salty.elytrian_light_armor.name":"Need for Mobility",
     "power.salty.elytrian_light_armor.description":"Wear any kind of armor on chest will increase your falling speed, increase your falling damage. heavy armor will prevent you from flying.",
 
+    "power.salty.eelytrian_aerial_combatant.name": "Blessed From Wind",
+    "power.salty.eelytrian_aerial_combatant.description": "While you attack a target in fall flying, take them to mid-air and apply amount of damage.",
+
     "power.salty.elytrian_launch_into_air.name": "Snow and Sky",
     "power.salty.elytrian_launch_into_air.description": "You are able to launch into the air if you aren't wearing any heavy chestplate. Be noticed wearing any type of chestplate armor will both decrease your run speed and air speed, Even prevent flying.",
   
@@ -39,8 +42,8 @@
     "power.salty.enderian_pumpkin_hate.name":"???",
     "power.salty.enderian_pumpkin_hate.description":"For some reasons, you can't eat any kind of food related ??,also entity wearing ?? will be imperceptible for you.",
 
-    "power.salty.enderian_raging.name": "Gift of Liberation",
-    "power.salty.enderian_raging.description": "Build up angry while attack or hurt. Rage will apply speed effect and attack damage bonus when you are raging, and apply blindness to targets intermittent.",
+    "power.salty.enderian_toggle_dark_embrace.name": "Dark Embrace",
+    "power.salty.enderian_toggle_dark_embrace.description": "While your health are less than 60 percent, you will build up strength and speed in darkness. Use key to toggle whether your health regen natural in a high percent.",
   
     "power.salty.feline_resource_mine.name": "Powered by Fish",
     "power.salty.feline_resource_mine.description": "Holding any kind of fish in your off-hand will temporarily allow you to mine.",
