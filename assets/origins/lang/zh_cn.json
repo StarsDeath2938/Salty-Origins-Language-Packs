@@ -35,7 +35,7 @@
   "power.salty.arachnid_fangs.description": "这可是洞穴里的货色。每隔一段时间，你的攻击将施加中毒效果。",
 
   "power.salty.arachnid_tied_attacker.name": "果断反击",
-  "power.salty.arachnid_tied_attacker.description": "每隔一段时间，对你造成伤害的生物都将被蛛网束缚，并获得挖掘疲劳效果。",
+  "power.salty.arachnid_tied_attacker.description": "每隔一段时间，对你造成伤害的生物都将被蛛网束缚，并获得虚弱效果。",
 
   "power.salty.avian_fall_flying.name": "空气阻力",
   "power.salty.avian_fall_flying.description": "你将以正常速度的一半向下坠落，并且不会因为坠落受到伤害。",
@@ -55,14 +55,17 @@
   "power.salty.blazeborn_lava_wander.name": "熔岩漫步者",
   "power.salty.blazeborn_lava_wander.description": "你不再需要在熔岩海里苦痛挣扎。获得在熔岩中的行动能力和清晰视野。",
 
-  "power.salty.elytrian_launch_into_air.name": "挣脱大地",
-  "power.salty.elytrian_launch_into_air.description": "以先驱者与遇难者之名，人类的意志已然挣脱大地。当你的胸部装甲满足机动需求时，将你抛向空中。",
+  "power.salty.elytrian_aerial_combatant.name": "挣脱大地",
+  "power.salty.elytrian_aerial_combatant.description": "以先驱者与遇难者之名，人类的意志已然挣脱大地，在滑翔时进行攻击会将攻击目标带向空中。",
+
+  "power.salty.elytrian_launch_into_air.name": "风之礼遇",
+  "power.salty.elytrian_launch_into_air.description": "你将扶摇而上，随风漂泊。当你的胸部装甲满足机动需求时，将你抛向空中。",
 
   "power.salty.elytrian_light_armor.name": "机动需求",
   "power.salty.elytrian_light_armor.description": "不是感觉，你已经撞上去了。胸甲的重量会影响你的平衡能力和坠落速度，增加碰撞伤害和坠落伤害，过重的胸甲会阻止你飞行并使你变得缓慢。",
 
   "power.salty.elytrian_claustrophobia.name": "幽闭恐惧",
-  "power.salty.elytrian_claustrophobia.description": "在天花板很低的地方逗留太久会使你无法呼吸，变得虚弱而缓慢。",
+  "power.salty.elytrian_claustrophobia.description": "在天花板很低的地方逗留太久会使你感到不适，变得虚弱而缓慢。",
 
   "power.salty.enderian_ender_pearl.name": "传统艺能: 送",
   "power.salty.enderian_ender_pearl.description": "你可以抛出一个不造成伤害的末影珍珠进行传送。",
@@ -70,8 +73,8 @@
   "power.salty.enderian_pumpkin_hate.name": "??感知缺失",
   "power.salty.enderian_pumpkin_hate.description": "出于某种原因，你无法吃下??相关的食物，也无法察觉任何装备??的生物。你一直没搞明白??到底是个啥。",
 
-  "power.salty.enderian_raging.name": "恩赐解脱",
-  "power.salty.enderian_raging.description": "攻击或受到伤害都会使你积累愤怒并最终进入狂暴。处于狂暴状态时，将获得速度加成并造成额外伤害，并间歇性为攻击目标施加失明状态。",
+  "power.salty.enderian_dark_embrace.name": "恩赐解脱",
+  "power.salty.enderian_dark_embrace.description": "攻击或受到伤害都会使你积累愤怒并最终进入狂暴。处于狂暴状态时，将获得速度加成并造成额外伤害，并间歇性为攻击目标施加失明状态。",
 
   "power.salty.feline_the_ninth_live.name": "第九条命",
   "power.salty.feline_the_ninth_live.description": "在你濒死时阻止你的第一次死亡，获得加速和虚弱效果。重生或在橙色床上睡醒将使你重置你的死亡计数器。",
