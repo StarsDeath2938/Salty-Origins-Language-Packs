@@ -6,8 +6,8 @@
     "power.salty.arachnid_fangs.name": "Poisonous Bite",
     "power.salty.arachnid_fangs.description": "Come from caves! Your attacks inflict venom.",
 
-    "power.salty.avian_fall_flying.name": "Featherweight",
-    "power.salty.avian_fall_flying.description": "You fall as half of normal falling speed as a feather would, unless you sneak.",
+    "power.salty.avian_slow_falling.name": "Featherweight",
+    "power.salty.avian_slow_falling.description": "You fall as half of normal falling speed as a feather would, unless you sneak.",
   
     "power.salty.avian_fresh_air.name": "Fresh Air Needed",
     "power.salty.avian_fresh_air.description": "You realy need fresh air now. When sleeping, your bed needs to be at an altitude of at least 86 blocks. Stay at deep caves for long will make you weak and slow.",

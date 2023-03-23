@@ -31,14 +31,14 @@
 
   "enchantment.origins.water_protection.desc": "延缓在水中因恐水症收到伤害。",
 
-  "power.salty.arachnid_fangs.name": "剧毒！",
+  "power.salty.arachnid_fangs.name": "毒素灌注",
   "power.salty.arachnid_fangs.description": "这可是洞穴里的货色。每隔一段时间，你的攻击将施加中毒效果。",
 
   "power.salty.arachnid_tied_attacker.name": "果断反击",
   "power.salty.arachnid_tied_attacker.description": "每隔一段时间，对你造成伤害的生物都将被蛛网束缚，并获得虚弱效果。",
 
-  "power.salty.avian_fall_flying.name": "空气阻力",
-  "power.salty.avian_fall_flying.description": "你将以正常速度的一半向下坠落，并且不会因为坠落受到伤害。",
+  "power.salty.avian_slow_falling.name": "空气阻力",
+  "power.salty.avian_slow_falling.description": "你将以正常速度的一半向下坠落，并且不会因为坠落受到伤害。",
 
   "power.salty.avian_fresh_air.name": "新鲜空气",
   "power.salty.avian_fresh_air.description": "你对清新的空气特殊的需求。你只能在高处入睡，在地底的洞穴中过久逗留会使你变得虚弱且疲劳。",
@@ -62,7 +62,7 @@
   "power.salty.elytrian_launch_into_air.description": "你将扶摇而上，随风漂泊。当你的胸部装甲满足机动需求时，每隔一段时间，你都能够将自己抛向空中。",
 
   "power.salty.elytrian_light_armor.name": "机动需求",
-  "power.salty.elytrian_light_armor.description": "不是感觉，你已经撞上去了。胸甲的重量会影响你的平衡能力和坠落速度，增加碰撞伤害和坠落伤害，过重的胸甲会阻止你飞行并使你变得缓慢。",
+  "power.salty.elytrian_light_armor.description": "不是感觉，你已经撞上去了。胸甲的重量会影响你的平衡能力和坠落速度，增加碰撞伤害和坠落伤害，过重的胸甲会阻止你飞行并使你变得沉重。",
 
   "power.salty.elytrian_claustrophobia.name": "幽闭恐惧",
   "power.salty.elytrian_claustrophobia.description": "在天花板很低的地方逗留太久会使你感到不适，变得虚弱而缓慢。",
@@ -72,6 +72,9 @@
 
   "power.salty.enderian_pumpkin_hate.name": "??感知缺失",
   "power.salty.enderian_pumpkin_hate.description": "出于某种原因，你无法吃下??相关的食物，也无法察觉任何装备??的生物。你一直没搞明白??到底是个啥。",
+
+  "power.salty.enderian_space_traveler.name": "空间旅行者",
+  "power.salty.enderian_space_traveler.description": "当你手中没有任何物品时，在潜行时按下物品栏按键时，以饥饿值为代价打开末影箱储物栏。黑暗之拥触发时将禁用此能力。",
 
   "power.salty.enderian_toggle_dark_embrace.name": "黑暗之拥",
   "power.salty.enderian_toggle_dark_embrace.description": "当你的生命值处于较低水准时，你将在黑暗中以饥饿为代价获得巨幅强化。使用技能按键切换生命自然恢复禁用状态。",
