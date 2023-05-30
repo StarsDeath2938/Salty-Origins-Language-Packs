@@ -50,7 +50,7 @@
   "power.salty.blazeborn_nether_spawn.description": "你将在地狱的诡异森林中出生。",
 
   "power.salty.blazeborn_call_from_nether.name": "地狱呼唤",
-  "power.salty.blazeborn_call_from_nether.description": "地狱的力量始终影响着你。你的近战和远程攻击将会施加额外效果。",
+  "power.salty.blazeborn_call_from_nether.description": "地狱的力量始终影响着你。你的近战和远程攻击将会施加着火效果。",
 
   "power.salty.blazeborn_lava_wander.name": "熔岩漫步者",
   "power.salty.blazeborn_lava_wander.description": "你不再需要在熔岩海里苦痛挣扎。获得在熔岩中的行动能力和清晰视野。",
@@ -65,7 +65,7 @@
   "power.salty.elytrian_light_armor.description": "不是感觉，你已经撞上去了。胸甲的重量会影响你的平衡能力和坠落速度，增加碰撞伤害和坠落伤害，过重的胸甲会阻止你飞行并使你变得沉重。",
 
   "power.salty.elytrian_claustrophobia.name": "幽闭恐惧",
-  "power.salty.elytrian_claustrophobia.description": "在天花板很低的地方逗留太久会使你感到不适，变得虚弱而缓慢。",
+  "power.salty.elytrian_claustrophobia.description": "在天花板很低的地方逗留太久会使你感到不适，变得虚弱。",
 
   "power.salty.enderian_ender_pearl.name": "传统艺能: 送",
   "power.salty.enderian_ender_pearl.description": "你可以抛出一个不造成伤害的末影珍珠进行传送。",

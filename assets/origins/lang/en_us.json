@@ -19,13 +19,13 @@
     "power.salty.blazeborn_nether_spawn.description":"Your natural spawn will be in the nether, at warped forest.",
 
     "power.salty.blazeborn_call_from_nether.name": "Calling From Underland",
-    "power.salty.blazeborn_call_from_nether.description": "You have been blessed from nether. your melee attacks inflict wither and you range attack will always buring targets.",
+    "power.salty.blazeborn_call_from_nether.description": "You have been blessed from nether. your melee attacks and you range attack will always buring targets and apply extra damage on buring targets.",
     
     "power.salty.blazeborn_lava_wander.name": "Lava Wander",
     "power.salty.blazeborn_lava_wander.description": "You are able to walk on lava, also swim in it.",
 
     "power.salty.elytrian_claustrophobia.name":"Claustrophobia",
-    "power.salty.elytrian_claustrophobia.description":"Being somewhere with a low ceiling for too long will weaken you and make you slower.",
+    "power.salty.elytrian_claustrophobia.description":"Being somewhere with a low ceiling for too long will weaken you.",
 
     "power.salty.elytrian_light_armor.name":"Need for Mobility",
     "power.salty.elytrian_light_armor.description":"Wear any kind of armor on chest will increase your falling speed, increase your falling damage. heavy armor will prevent you from flying.",
